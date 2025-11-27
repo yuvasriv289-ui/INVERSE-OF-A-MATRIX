@@ -19,7 +19,3 @@ To write a python program to find the inverse of a matrix
 ![alt text](MA3a-1.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
-
-
-
-[def]: MA3a.png
