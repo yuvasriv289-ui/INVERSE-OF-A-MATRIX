@@ -11,7 +11,15 @@ To write a python program to find the inverse of a matrix
 ### Step 4: 
 
 ## Program:
+
+![alt text](MA3.png)
+
 ## Output:
+
+![alt text](MA3a-1.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
+
+
+[def]: MA3a.png
